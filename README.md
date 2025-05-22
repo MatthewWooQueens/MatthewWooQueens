@@ -3,6 +3,3 @@
 
 - ⚡ Full Stack Developer
 - 🌱 Currently learning Vite and Tailwind CSS
-- 🤝 Willing to learn Java
-- 📖 Leetcode Grinding
-- 🔭 Spend too much time playing games
