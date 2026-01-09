@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Matthew </h1>
+<h1 align="center">Hi, I'm Matthew </h1>
 <h3 align="center">Queen's University Graduate</h3>
 <br>
-⚡ Full Stack Developer Probably<br>
+Full Stack Developer Probably<br>
 <br>
 <br>
 <div style="display:flex;">
